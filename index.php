@@ -7,7 +7,16 @@
    </head>
 
    <body>
-   </body>
+ 
+ <?php
+    if($_SERVER['REQUEST_METHOD'] == 'GET'){
+      echo "Método get"
+    }else{
+      echo "Hola mundo"
+    }
+  ?>
+
+</body>
   
 
  </html>
