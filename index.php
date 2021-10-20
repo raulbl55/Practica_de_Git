@@ -3,7 +3,7 @@
 
    <head>
       <meta charset="utf-8"/>
-      <title>document</title>    
+      <title>Documento comprueba metodo GET</title>    
    </head>
 
    <body>
